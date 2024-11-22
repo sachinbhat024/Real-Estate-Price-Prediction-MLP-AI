@@ -2,7 +2,7 @@
 
 Predicting house prices accurately is essential for real estate professionals to make smart, informed decisions in a competitive market. Correct pricing helps avoid overvaluation, which can keep properties on the market too long, and undervaluation, which can lead to financial losses. This project focuses on using machine learning models to predict house prices based on historical data, allowing professionals to make data-driven decisions and maintain a competitive edge.
 
-The dataset contains detailed information on over 21,000 housing transactions, including features like square footage, number of bedrooms and bathrooms, year built, condition, zipcode, and waterfront views. These features provide a full picture of the factors that influence house prices, making the data highly suitable for machine learning models to accurately capture pricing trends.
+The dataset contained detailed information on over 21,000 housing transactions, including features like square footage, number of bedrooms and bathrooms, year built, condition, zipcode, and waterfront views. These features provide a full picture of the factors that influence house prices, making the data highly suitable for machine learning models to accurately capture pricing trends.
 
 Two models were tested: Linear Regression as a simple baseline, and the more advanced Multi-Layer Perceptron (MLP). While linear regression offers basic insights, the complexity of real estate data required the MLP model to capture non-linear relationships between features and prices. The MLP’s multiple hidden layers allow it to model deeper interactions, making it more effective for this task.
 
