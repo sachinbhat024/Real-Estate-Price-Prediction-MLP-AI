@@ -1,4 +1,4 @@
-# Real Estate Price Prediction 🏠💹
+# Real Estate Price Prediction using MLP 🏠💹
 
 This project focuses on using machine learning models to predict house prices based on historical data, allowing professionals to make data-driven decisions and maintain a competitive edge. Predicting house prices accurately is essential for real estate professionals to make smart, informed decisions in a competitive market. Correct pricing helps avoid overvaluation, which can keep properties on the market too long, and undervaluation, which can lead to financial losses. 
 
