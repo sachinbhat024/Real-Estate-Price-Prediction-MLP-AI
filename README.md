@@ -1,6 +1,6 @@
 # Real Estate Price Prediction 🏠
 
-This project focuses on using machine learning models to predict house prices based on historical data, allowing professionals to make data-driven decisions and maintain a competitive edge.
+This project focuses on using machine learning models to predict house prices based on historical data, allowing professionals to make data-driven decisions and maintain a competitive edge. Predicting house prices accurately is essential for real estate professionals to make smart, informed decisions in a competitive market. Correct pricing helps avoid overvaluation, which can keep properties on the market too long, and undervaluation, which can lead to financial losses. 
 
 The dataset contained detailed information on over 21,000 housing transactions, including features like square footage, number of bedrooms and bathrooms, year built, condition, zipcode, and waterfront views. These features provide a full picture of the factors that influence house prices, making the data highly suitable for machine learning models to accurately capture pricing trends.
 
